@@ -176,7 +176,3 @@ See [docs/figma-prototype-spec.md](docs/figma-prototype-spec.md) for the frame m
 - PDF care plan export
 - Multi-language support
 - WCAG 2.1 AA compliance audit
-
-## License
-
-MIT
